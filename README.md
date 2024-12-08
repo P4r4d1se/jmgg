@@ -1,8 +1,8 @@
-# jmgg
-JMG的哥斯拉内存马插件jmgg  
-以后和JMG同步更新，现在版本是1.0.8
+## jmgg
+基于pen4uin师傅的JMG的哥斯拉内存马插件jmgg，以后和JMG同步更新，现在版本是1.0.8  
+参考：https://github.com/pen4uin/java-memshell-generator  
 ![image](https://github.com/user-attachments/assets/f76deef4-f571-40da-bd06-4fdd59dfbf9a)
-# 演示
+## 演示
 只做了简单测试，没有测试所有环境。  
 哥斯拉-Tomcat-Filter：
 ![image](https://github.com/user-attachments/assets/6f818836-4233-4699-800d-cf95c0eebf24)
